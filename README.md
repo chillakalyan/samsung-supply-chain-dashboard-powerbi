@@ -30,3 +30,27 @@ samsung-supply-chain-dashboard-powerbi/
 ├── datasets/                   # Raw dataset (if applicable)
 └── README.md
 ```
+---
+
+## 📊 Key Performance Indicators (KPIs)
+
+- **Total Revenue**
+- **Gross Revenue**
+- **Profit**
+- **Profit Margin %**
+- **Perfect Order %**
+- **Discount Analysis**
+- **Supplier Average Lead Time**
+- **Channel-wise Revenue & Profit Breakdown**
+
+---
+
+## 🔍 Dashboard Insights
+
+- The **Online channel** contributes the highest share of total revenue.
+- Certain suppliers demonstrate **lower average lead times**, improving operational efficiency.
+- Profit margins fluctuate across months, indicating **seasonal performance trends**.
+- Order quantity directly impacts **supplier performance and logistics timelines**.
+- Channel-wise profit distribution highlights the contribution of **Retailer vs Direct sales**.
+
+---
