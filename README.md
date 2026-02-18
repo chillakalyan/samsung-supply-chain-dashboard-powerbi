@@ -36,8 +36,7 @@ samsung-supply-chain-dashboard-powerbi/
 ├── dashboard-design-process/ # Development & modeling screenshots
 ├── datasets/ # Raw dataset (if applicable)
 ├── ml experiments /* ml integrated
-├── global_air_pollution_data.csv  # Historical dataset used for training
-├── requirements.txt               # Python dependencies
+└── streamlit_app.py               # Main Streamlit application
 ```
 ---
 
@@ -107,7 +106,7 @@ This experiment demonstrates an end-to-end BI + ML integration workflow.
 ## 📂 ML Files
 ```│
 ├── lead_time_model.ipynb
-├── procurement_ml_engineered.csv
+└── procurement_ml_engineered.csv
 ```
 ---
 ## 🔍 Dashboard Insights
@@ -130,5 +129,4 @@ This dashboard enables:
 - Identification of logistics bottlenecks  
 - Strategic channel performance comparison  
 
----
 
