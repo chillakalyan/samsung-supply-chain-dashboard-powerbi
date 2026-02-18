@@ -51,7 +51,9 @@ samsung-supply-chain-dashboard-powerbi/
 │ ├── lead_time_model.ipynb
 │ └── procurement_ml_engineered.csv
 ├── LICENSE
-└── README.md
+├── README.md
+└── requirements.txt
+
 ```
 ---
 
