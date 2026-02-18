@@ -17,11 +17,24 @@ The main objective of this project is to analyze supply chain performance and id
 
 ## 🛠 Tools & Technologies Used
 
-- **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
-- **Data Modeling**
-- **KPI Visualization**
-- **Business Intelligence Concepts**
+### 📊 Business Intelligence
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- KPI Visualization
+- Power Query (ETL)
+
+### 🤖 Machine Learning
+- Python
+- Pandas
+- Scikit-learn
+- Random Forest Algorithm
+- Regression & Classification Modeling
+
+### 🗂 Version Control
+- Git
+- GitHub
+
 
 ---
 
@@ -32,11 +45,13 @@ samsung-supply-chain-dashboard-powerbi/
 │
 ├── dashboard/ # Power BI (.pbix) file
 ├── screenshots/ # Final dashboard previews
-├── README.md                      # Project documentation
-├── dashboard-design-process/ # Development & modeling screenshots
-├── datasets/ # Raw dataset (if applicable)
-├── ml experiments /* ml integrated
-└── streamlit_app.py               # Main Streamlit application
+├── dashboard-design-process/ # Data modeling & transformation screenshots
+├── datasets/ # Raw datasets used for analysis
+├── ML Experiments/ # Machine Learning integration
+│ ├── lead_time_model.ipynb
+│ └── procurement_ml_engineered.csv
+├── LICENSE
+└── README.md
 ```
 ---
 
